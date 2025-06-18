@@ -23,28 +23,6 @@ This project is a beginner-friendly machine learning model that classifies image
 
 ---
 
-## 🗂️ Folder Structure
-
-car-brand-classifier/
-│
-├── dataset/ # Local dataset (NOT included in the repo)
-│ ├── audi/
-│ ├── bmw/
-│ └── mercedes/
-│
-├── models/ # (Optional) Saved trained model files
-│
-├── notebooks/ # Jupyter Notebooks (EDA, training, evaluation)
-│
-├── src/ # Python scripts (data loader, training, prediction)
-│
-├── .gitignore
-├── README.md
-├── requirements.txt
-└── train.py # Entry point for training the model
-
-
----
 
 ## 🖼️ Dataset
 
