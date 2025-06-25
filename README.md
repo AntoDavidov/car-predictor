@@ -17,7 +17,7 @@ This project is a beginner-friendly machine learning model that classifies image
 
 1. A dataset of car images is collected manually from the internet.
 2. The images are cleaned and resized for uniformity.
-3. A Convolutional Neural Network (CNN) is built using **transfer learning** (e.g., MobileNetV2 or ResNet50).
+3. A Convolutional Neural Network (CNN) is built using **transfer learning** (MobileNetV2).
 4. The model is trained and validated on the dataset.
 5. The trained model is used to classify new car images.
 
